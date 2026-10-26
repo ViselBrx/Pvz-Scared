@@ -23,6 +23,8 @@ O executável precisa continuar ao lado de `GameAssembly.dll`, `UnityPlayer.dll`
 
 As versões para download serão publicadas nas [GitHub Releases](https://github.com/ViselBrx/Pvz-Scared/releases). O arquivo `.rar` do jogo será disponibilizado na página da versão correspondente.
 
+Se preferir baixar pelo site oficial do Pvz Scared (Windows, Android, IOS), acesse o site oficial do mod: [https://pvzscared.com/download](https://pvzscared.com/download).
+
 ## Como alterar as datas do diário ou das fases
 
 Os “dias” mostrados no diário fazem parte da narrativa e da progressão das fases. **Mudar a data e a hora do Windows não edita esses textos.** Nesta distribuição, eles não estão em um arquivo `.txt` ou `.json` separado: o conteúdo do jogo foi empacotado em arquivos binários da Unity, sobretudo dentro de `PVZ-Scared_Data`.
