@@ -4,11 +4,11 @@
 
 **PVZ Scared** é uma versão de terror feita por fãs de *Plants vs. Zombies*. A defesa do jardim continua sendo o centro do jogo, mas plantas, zumbis, sons e cenários ganham uma aparência sombria. A história aparece em entradas de diário ao longo das fases. O projeto é chinês e não é uma versão oficial da PopCap ou da EA.
 
-Este repositório contém a documentação do projeto. A cópia do jogo, **versão 1.0.1 para Windows**, está no arquivo `.rar` publicado nas [GitHub Releases](https://github.com/ViselBrx/Pvz-Scared/releases), não na pasta do repositório. Não há código-fonte nem um projeto Unity editável aqui.
+Este repositório contém a documentação do projeto. A cópia do jogo, **versão 1.0.1 para Windows**, está no arquivo `.rar` publicado na página de download do projeto, não na pasta do repositório. Não há código-fonte nem um projeto Unity editável aqui.
 
 ## Como executar
 
-1. Baixe o arquivo `.rar` da versão nas [GitHub Releases](https://github.com/ViselBrx/Pvz-Scared/releases) e extraia-o em uma pasta no Windows de 64 bits.
+1. Baixe o arquivo `.rar` da versão na seção [Download](#download) e extraia-o em uma pasta no Windows de 64 bits.
 2. Mantenha a pasta do jogo extraída inteira, sem separar o executável dos outros arquivos.
 3. Abra `PVZ-Scared.exe` dentro dessa pasta com um duplo clique. O jogo não é executado a partir da raiz deste repositório.
 
@@ -24,7 +24,7 @@ Se preferir baixar pelo site oficial do Pvz Scared (Windows, Android, IOS), aces
 
 ## Como alterar as datas do diário ou das fases
 
-Os “dias” mostrados no diário fazem parte da narrativa e da progressão das fases. **Mudar a data e a hora do Windows não edita esses textos.** Na cópia distribuída no arquivo `.rar`, eles não estão em um arquivo `.txt` ou `.json` separado: o conteúdo do jogo foi empacotado em arquivos binários da Unity, sobretudo dentro de `PVZ-Scared_Data`.
+Os “dias” mostrados no diário fazem parte da narrativa e da progressão das fases. Na cópia distribuída no arquivo `.rar`, eles não estão em um arquivo `.txt` ou `.json` separado: o conteúdo do jogo foi empacotado em arquivos binários da Unity, sobretudo dentro de `PVZ-Scared_Data`.
 
 Para tentar editar o que aparece na tela:
 
